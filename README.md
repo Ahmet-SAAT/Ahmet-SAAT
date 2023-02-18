@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmet Saat</h1>
 <img src="https://raw.githubusercontent.com/vipul-tanwar/Profile-gifs/main/Banner(frontend).gif" alt="">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmet-Saat=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmet-SAAT=Profile%20views&color=0e75b6&style=flat" alt="vipul-tanwar" /> </p>
 
 
 
